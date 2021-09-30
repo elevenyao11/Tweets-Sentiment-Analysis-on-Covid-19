@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Since the end of 2019, COVID-19 broke out gradually country by country throughout the world, almost no place on earth could stay out of this epidemic. Human got different feelings: Some feel frightened, angry, and desperate, while the others feel that it is just a bad cold, and sooner or later, human beings will overcome the virus. From the course of Trends in Computational Linguistics, we got the knowledge of the most advanced neural network model and natural language processing method. We would like to practice them to the Covid- 19 related social media data to do sentiment analysis, so that to find out the best model for this kind of application. At the same time, we are also curious about in the same world, do people in different country got the same feeling towards the pandemic, and the role of time and space play.
+Since the end of 2019, COVID-19 broke out gradually country by country throughout the world, almost no place on earth could stay out of this epidemic. Human got different feelings: Some feel frightened, angry, and desperate, while the others feel that it is just a bad cold, and sooner or later, human beings will overcome the virus. Neural network model such as BERT and natural language processing method to the Covid- 19 related social media data to do sentiment analysis, so that to find out the best model for this kind of application. At the same time, it is interested to find in the same world, do people in different country got the same feeling towards the pandemic, and the role of time and space play.
 
 
 #### Tweets Sentiment-Daily cases distribution in US
