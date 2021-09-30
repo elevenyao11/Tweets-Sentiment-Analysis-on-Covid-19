@@ -40,17 +40,10 @@ In terms of data storage, we intend to keep 5 fields of metadata, if possible, i
 
 
 ## *Engineering:*
-### computing infrastructure:
-
-We will first try with Personal computers only. We will consider using Google Colab and/or Google Cloud TPU if it is needed.
-
-### deep learning of NLP method:
-
-We would chose one of the models below with best f1 score in the traing prhase to do the classification on Covid-19 relevant tweets.
-- CNN: We have done some pilot research on CNN, based on the training data, we got 0.37 f1 score by now.
+### Models
+- CNN
 - BERT-Classfication
 - RoBERTa with Adapter Module
-- DANN (Domain Adversarial Neural Network)
 - linear regression (baseline)
 
 
